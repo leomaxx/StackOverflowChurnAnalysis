@@ -1,0 +1,9 @@
+.DS_Store
+  
+*.pyc
+
+.ipynb_checkpoint/
+.ipynb_checkpoints/
+
+*_rrs*
+*pkl
