@@ -1,0 +1,881 @@
+,index,location
+0,,2862
+1,India,1725
+2,United States,1188
+3,United Kingdom,521
+4,Germany,505
+5,France,344
+6,Canada,287
+7,Australia,237
+8,Netherlands,158
+9,Russia,150
+10,Ukraine,132
+11,Israel,127
+12,USA,124
+13,Poland,122
+14,Deutschland,117
+15,Pakistan,114
+16,CA,100
+17,Italy,94
+18,Spain,94
+19,Bangladesh,86
+20,UK,86
+21,Switzerland,84
+22,Sweden,76
+23,Brazil,74
+24,Polska,68
+25,Belgium,65
+26,Iran,65
+27,Romania,64
+28,Austria,63
+29,Singapore,61
+30,New Zealand,54
+31,Philippines,54
+32,Sri Lanka,53
+33,Japan,52
+34,Argentina,52
+35,WA,51
+36,China,51
+37,Czech Republic,49
+38,Denmark,45
+39,Greece,44
+40,Ireland,44
+41,Norway,44
+42,Finland,43
+43,Bulgaria,42
+44,Vietnam,40
+45,Turkey,40
+46,TX,39
+47,Belarus,38
+48,Nepal,37
+49,The Netherlands,37
+50,Portugal,36
+51,Italia,36
+52,South Africa,36
+53,Indonesia,30
+54,NY,30
+55,Brasil,29
+56,California,29
+57,España,28
+58,Türkiye,27
+59,Europe,27
+60,Hungary,27
+61,Egypt,25
+62,FL,23
+63,Earth,23
+64,Hong Kong,22
+65,MA,22
+66,PA,21
+67,Malaysia,20
+68,London,20
+69,Taiwan,19
+70,Slovakia,19
+71,Lithuania,18
+72,IL,18
+73,OR,18
+74,Россия,18
+75,South Korea,18
+76,Dubai - United Arab Emirates,17
+77,England,16
+78,Österreich,16
+79,Nederland,16
+80,VA,15
+81,Armenia,15
+82,CO,15
+83,Colombia,15
+84,Nigeria,14
+85,Morocco,14
+86,Croatia,14
+87,Bangalore,14
+88,Uruguay,13
+89,Texas,13
+90,New Jersey,13
+91,Tunisia,13
+92,Kenya,13
+93,México,13
+94,NC,13
+95,Serbia,13
+96,MN,12
+97,Slovenia,12
+98,Berlin,12
+99,TN,12
+100,Paris,12
+101,Mexico,11
+102,Algeria,11
+103,Ahmedabad,11
+104,België,11
+105,MI,11
+106,WI,11
+107,San Francisco Bay Area,10
+108,DC,10
+109,GA,10
+110,Schweiz,10
+111,OH,10
+112,Bangkok Thailand,10
+113,Jordan,9
+114,Virginia,9
+115,Lebanon,9
+116,Chile,9
+117,Estonia,8
+118,Georgia,8
+119,IN,8
+120,Moscow,8
+121,NJ,8
+122,Chennai,8
+123,MD,7
+124,United Arab Emirates,7
+125,Peru,7
+126,Bolivia,7
+127,Bosnia and Herzegovina,7
+128,Ελλάδα,7
+129,Azerbaijan,7
+130,Sverige,7
+131,Venezuela,7
+132,Michigan,7
+133,MO,7
+134,AZ,6
+135,Luxembourg,6
+136,Saudi Arabia,6
+137,Russian Federation,6
+138,Việt Nam,6
+139,New York,6
+140,Czechia,6
+141,Cuba,6
+142,Belgrade,6
+143,Utah,6
+144,Tunisie,6
+145,Oregon,6
+146,Algérie,6
+147,Maryland,6
+148,New Delhi,6
+149,Moldova,6
+150,Massachusetts,6
+151,Kuala Lumpur Federal Territory of Kuala Lumpur Malaysia,6
+152,Quebec,5
+153,Beijing,5
+154,SC,5
+155,Barcelona,5
+156,Vojvodina,5
+157,Suomi,5
+158,Kazakhstan,5
+159,Česko,5
+160,Vienna,5
+161,Thailand,5
+162,Illinois,5
+163,North Carolina,5
+164,Ohio,5
+165,San Francisco,5
+166,Uzbekistan,5
+167,Delhi,5
+168,Seattle,5
+169,Melbourne,5
+170,Pennsylvania,5
+171,Costa Rica,5
+172,Ethiopia,4
+173,Montreal,4
+174,U.K.,4
+175,Albania,4
+176,Belgique,4
+177,中国北京市Beijing Shi,4
+178,Malta,4
+179,Iceland,4
+180,Cambodia,4
+181,Ghana,4
+182,Latvia,4
+183,Perú,4
+184,Kuwait,4
+185,ישראל,4
+186,Pune,4
+187,Palestine,4
+188,Florida,4
+189,Ontario,4
+190,Cyprus,4
+191,NE,4
+192,Syria,4
+193,Iraq,4
+194,IA,4
+195,OK,4
+196,Arizona,4
+197,Maroc,4
+198,Tehran,4
+199,Scotland,4
+200,Minnesota,4
+201,"Dhaka,Bangladesh",4
+202,Uganda,4
+203,România,4
+204,Ecuador,3
+205,Pacific Northwest,3
+206,Cameroon,3
+207,Reino Unido,3
+208,District of Columbia,3
+209,Danmark,3
+210,Amsterdam,3
+211,Dublin,3
+212,Guatemala,3
+213,chennai,3
+214,earth,3
+215,New England,3
+216,Trinidad and Tobago,3
+217,Sydney,3
+218,Kerala,3
+219,Spagna,3
+220,Gujarat,3
+221,Mumbai,3
+222,Regno Unito,3
+223,Espanya,3
+224,Toronto,3
+225,UT,3
+226,Universe,3
+227,Silicon Valley,3
+228,AL,3
+229,Paraguay,3
+230,Mars,3
+231,Planet Earth,3
+232,Slovensko,3
+233,Dominican Republic,3
+234,Munich,3
+235,Western Australia,3
+236,Wisconsin,3
+237,Mauritius,3
+238,Magyarország,3
+239,US,3
+240,Chicago,3
+241,Hamburg,3
+242,NV,3
+243,UAE,3
+244,Bavaria,2
+245,Indore,2
+246,NL,2
+247,Dortmund,2
+248,Nicaragua,2
+249,istanbul,2
+250,中国浙江省Hangzhou Shi,2
+251,Maine,2
+252,KY,2
+253,대한민국 Seoul,2
+254,LA,2
+255,Royaume-Uni,2
+256,中国广东省Shenzhen Shi,2
+257,Japon,2
+258,East Coast USA,2
+259,Karachi,2
+260,india,2
+261,United States of America,2
+262,AK,2
+263,Wales,2
+264,Oman,2
+265,Kentucky,2
+266,Los Angeles,2
+267,Zurich,2
+268,null,2
+269,Pacific Ocean,2
+270,Korea,2
+271,Sudan,2
+272,Istanbul,2
+273,Central Europe,2
+274,Украина,2
+275,Prague,2
+276,NM,2
+277,BC,2
+278,България,2
+279,Delaware,2
+280,NYC,2
+281,Nagpur,2
+282,República Dominicana,2
+283,Copenhagen Denmark,2
+284,Scandinavia,2
+285,Europa,2
+286,India.,2
+287,Kansas City,2
+288,Ukraina,2
+289,Madagascar,2
+290,Internet,2
+291,KS,2
+292,Worldwide,2
+293,Northern Virginia,2
+294,"Delhi,India",2
+295,CZ,2
+296,Somewhere,2
+297,Washington,2
+298,New Hampshire,2
+299,CT,2
+300,Montenegro,2
+301,British Columbia,2
+302,Estados Unidos,2
+303,Kiev,2
+304,Lietuva,2
+305,Madrid,2
+306,Slovenija,2
+307,Edinburgh,2
+308,Noida,2
+309,Sheffield,2
+310,Tbilisi,2
+311,NH,2
+312,Nebraska,2
+313,localhost,2
+314,Oxford,2
+315,127.0.0.1,2
+316,Budapest,2
+317,Afghanistan,2
+318,Tokyo,2
+319,Colorado,2
+320,대한민국 Seoul Korea,1
+321,The Computer Lab,1
+322,Frankfurt and Seattle,1
+323,Indiana,1
+324,Taiwan Taipei,1
+325,hyperuranium,1
+326,A logging camp in the Great North Woods,1
+327,Milky Way Galaxy,1
+328,Salt Spring Island,1
+329,Kingdom of Cambodia,1
+330,Republic of Latvia,1
+331,Jurong Town,1
+332,https://github.com/oneumyvakin,1
+333,Upper Pylon 2,1
+334,Middle-earth,1
+335,Sderot,1
+336,Outer Eastern Rim,1
+337,QC,1
+338,Basement,1
+339,Austrália,1
+340,spb,1
+341,Saint Mansonalihanakiwandowatchisinkowota,1
+342,Skelmersdale,1
+343,Dolny Śląsk,1
+344,PEI,1
+345,Greenwich Meridian,1
+346,Arkansas,1
+347,interweb,1
+348,"ℂ,",1
+349,Ends of the earth,1
+350,Bremen,1
+351,teh internets,1
+352,Washington DC metro area (US),1
+353,Croatia (EU),1
+354,Alaska,1
+355,Prishtina,1
+356,East Africa,1
+357,cbba,1
+358,The Netherlands / Bulgaria,1
+359,St.Petersburg,1
+360,Montevideo,1
+361,Barnaul,1
+362,England (Mostly),1
+363,vill. kantha p/o wangal .teh salooni distt chamba himachal pradesh India 176308,1
+364,I'm right here,1
+365,Quebec city,1
+366,Beijing Shi,1
+367,Minsk,1
+368,Pennsylania,1
+369,Stuttgart,1
+370,Utica Ny,1
+371,UC Irvine,1
+372,speck in the universe,1
+373,universe,1
+374,Antananarivo,1
+375,Ravenna,1
+376,on earth,1
+377,Kerala - Thrissur,1
+378,Africa,1
+379,Moon,1
+380,U.S. East Coast,1
+381,Liettua,1
+382,Dallas TX,1
+383,Surat Gujarat India,1
+384,Gurgaon,1
+385,London - Brussels - Paris,1
+386,Kaunas,1
+387,Bay Area,1
+388,Bulgaria (but for the last years - Germany),1
+389,Yemen,1
+390,Multiverse.,1
+391,Spensonia,1
+392,Somewhere over the rainbow,1
+393,"Noida,India",1
+394,India (Currently in Kuwait),1
+395,London Bangalore,1
+396,declarative world,1
+397,Colombo,1
+398,Reinsfeld - Germany,1
+399,paris,1
+400,Lille,1
+401,USA & Australia,1
+402,Vigo,1
+403,Xianning,1
+404,Dallas,1
+405,computer room,1
+406,Nevada,1
+407,The matrix,1
+408,"ahmedabad,india",1
+409,Saint-Petersburg,1
+410,A galaxy far far away,1
+411,Siberia,1
+412,Hyderabad,1
+413,New Jersey United States,1
+414,Not on a yacht... yet,1
+415,Rumänien,1
+416,"Pune,India",1
+417,Seattle WA,1
+418,Warsaw/Poland,1
+419,tokyo,1
+420,San Kenya,1
+421,wines and Nutella(TM),1
+422,nyc,1
+423,Darmstadt,1
+424,DC area,1
+425,Philadelphia,1
+426,D.C.,1
+427,Terra,1
+428,Kosovo,1
+429,the pond,1
+430,US (via U.K),1
+431,Banglore,1
+432,::1 (Bucharest),1
+433,Kangar Perlis Malaysia,1
+434,"Nagpur,Mumbai,Maharashtra India",1
+435,Dubai Design District - Business Bay - Dubai - United Arab Emirates,1
+436,Miami,1
+437,Girona,1
+438,Vereinigtes Königreich,1
+439,Big Apple,1
+440,Davao,1
+441,Sacramento,1
+442,Antarctica,1
+443,mumbai,1
+444,North India,1
+445,That is a mystery,1
+446,Chandigarh,1
+447,Southeastern Pennsylvania,1
+448,central europe,1
+449,Laniakea SC,1
+450,Tugaland a.k.a. Portugal,1
+451,World,1
+452,Around MIlwaukee,1
+453,Buenos Aires,1
+454,Oklahoma United States,1
+455,At work,1
+456,New York United States,1
+457,The North Pole,1
+458,Solar system,1
+459,Who cares?,1
+460,Kalédonia,1
+461,Duitsland,1
+462,manila,1
+463,Yorkshire,1
+464,Somewhere Over the Rainbow,1
+465,Jaipur,1
+466,Victoria,1
+467,netherlands,1
+468,Lahore,1
+469,Chicago Land Area,1
+470,Angola,1
+471,Carolinas,1
+472,Беларусь,1
+473,Nemecko,1
+474,Frankfurt am Main,1
+475,Dorset,1
+476,Ma,1
+477,UK (at the moment),1
+478,Tirane,1
+479,Poole,1
+480,Somewhere in North America (usually),1
+481,Canton of Lucerne,1
+482,The beautiful island of Mauritius. :),1
+483,Usa,1
+484,pune,1
+485,West of house,1
+486,Gaza,1
+487,New York City,1
+488,One phone call away,1
+489,Osaka,1
+490,Германия,1
+491,NorCal,1
+492,Up-voting away!,1
+493,香港,1
+494,"Guyana,South America",1
+495,Oklahoma,1
+496,Mongolia,1
+497,Veil Nebula,1
+498,Workbook,1
+499,FR,1
+500,Thane,1
+501,Kansas,1
+502,Almanya,1
+503,Geneva & Greece,1
+504,Boynton Beach,1
+505,Finger Licking Good Parlour,1
+506,Catalunya,1
+507,Paradise Lost,1
+508,Sri lanka,1
+509,Orion arm of the Milky Way,1
+510,Helsinki,1
+511,ON,1
+512,Miles from anywhere,1
+513,Beirut,1
+514,Kıbrıs,1
+515,worldwide,1
+516,Ghent City,1
+517,Nomad,1
+518,Vostok Station,1
+519,Belvedere CA,1
+520,Asia,1
+521,中国广东省Guangzhou Shi,1
+522,84321,1
+523,Far far and away,1
+524,—,1
+525,uk,1
+526,Trivandrum,1
+527,Nantes,1
+528,London UK,1
+529,"""nothing is longer term than a short term solution""",1
+530,Bhubaneswar,1
+531,Porto,1
+532,Portlandia,1
+533,Salem Oregon,1
+534,Wielka Brytania,1
+535,Canadá,1
+536,日本神奈川県Yokohama-shi,1
+537,Tx,1
+538,VN,1
+539,Tree,1
+540,Ontario Canada,1
+541,San Diego,1
+542,sc,1
+543,Calgary,1
+544,global,1
+545,02143,1
+546,Behind a terminal...,1
+547,Hovedstaden Denmark,1
+548,AUT,1
+549,Sao Paulo,1
+550,salerno,1
+551,中国Beijing Shi,1
+552,Antarctique,1
+553,South of France,1
+554,Spanien,1
+555,Kosova,1
+556,Vice City,1
+557,Srinagar,1
+558,"Karachi ,Pakistan",1
+559,TRAPPIST-1d,1
+560,/dev/null,1
+561,Niederlande,1
+562,Flyover Country,1
+563,Portland OR,1
+564,Catalonia,1
+565,From the River to the Sea,1
+566,the world,1
+567,中国Jiangsu Sheng,1
+568,Proxima Centauri,1
+569,Hong Kong-China,1
+570,Meneklis,1
+571,Havana,1
+572,Mother Earth,1
+573,Pristina District,1
+574,Toulouse,1
+575,France Paris,1
+576,El Salvador,1
+577,Dubai Internet City,1
+578,Україна,1
+579,Montana,1
+580,Minneapolis,1
+581,Kollam,1
+582,Thessaloniki,1
+583,ᎬᎪᏒᏆh,1
+584,"Indore,india (Madhya Pradesh)",1
+585,Britain,1
+586,Jammu and Kashmir,1
+587,Expat in China,1
+588,South Dakota,1
+589,Down to earth,1
+590,Milky way,1
+591,Italie,1
+592,Danielson Connecticut; Boston MA,1
+593,Montblanc,1
+594,for a while,1
+595,somewhere in EU (European Union),1
+596,Jena,1
+597,Quito,1
+598,中国北京市,1
+599,The Abyss,1
+600,中国海南省海口市,1
+601,Tanzania,1
+602,No Idea,1
+603,Washington United States,1
+604,North Rhine-Westphalia,1
+605,@,1
+606,India (Jaipur),1
+607,Brooklyn,1
+608,Iowa,1
+609,Hungria,1
+610,NASA Glenn Research Center,1
+611,Athens - Greece,1
+612,Panama,1
+613,Rusia,1
+614,Kampala,1
+615,Zwolle,1
+616,Seattle Area,1
+617,Segmentation Fault,1
+618,Tehran Province,1
+619,near Seattle,1
+620,Prince George,1
+621,Porbandar,1
+622,Frankreich,1
+623,Dubai Internet City - Dubai - United Arab Emirates,1
+624,The Great Land,1
+625,Sydney Australia,1
+626,BANGALORE,1
+627,Aurangabad india,1
+628,Vermont,1
+629,Kyrgyzstan,1
+630,Sofia Bulgaria,1
+631,"Udaipur,Rajasthan",1
+632,/home/tendo,1
+633,Tajikistan,1
+634,Dixie,1
+635,Kathmandu,1
+636,Bonn,1
+637,Lebanon.,1
+638,Greater Boston,1
+639,AbuDhabi,1
+640,Assam,1
+641,Essen,1
+642,INDIA,1
+643,Irland,1
+644,Oberschwaben,1
+645,日本 Tōkyō,1
+646,Romania and The Nineteenth Byte,1
+647,Česká republika,1
+648,La Habana,1
+649,South West UK,1
+650,BeiJing,1
+651,Vučje,1
+652,Basque Country,1
+653,World wide,1
+654,Bradford UK,1
+655,North East England,1
+656,Dänemark,1
+657,Израиль,1
+658,World.,1
+659,Đức,1
+660,Geneva,1
+661,Leeds,1
+662,Narnia,1
+663,Düsseldorf,1
+664,The World is my home,1
+665,Macedonia (FYROM),1
+666,AU,1
+667,Somewhere on the Planet,1
+668,Solar System,1
+669,Shanghai China,1
+670,heart,1
+671,Almaty,1
+672,Oxford-UK / Brasilia-BR,1
+673,Logic,1
+674,İstanbul,1
+675,Hyrule,1
+676,Pays-Bas,1
+677,Erlangen,1
+678,Bochum,1
+679,Jupiter,1
+680,fool-dev +4,1
+681,Lyon and Soon Santa Monica,1
+682,North Texas,1
+683,In the picture,1
+684,Las Vegas,1
+685,AR,1
+686,Dhaka,1
+687,Louisiana,1
+688,Bavaria Germany,1
+689,My House,1
+690,Studio City,1
+691,Países Bajos,1
+692,Wiesbaden,1
+693,Chesterfield,1
+694,RS - Brazil,1
+695,TRIVANDRUM,1
+696,CA 94536 USA,1
+697,"DE,BY",1
+698,Varkana,1
+699,Middle Earth,1
+700,Bermuda Triangle,1
+701,Santa's house,1
+702,South Coast,1
+703,Close to Schrödinger's Cat,1
+704,New Delhi India,1
+705,Flat Earth,1
+706,The World,1
+707,Home,1
+708,The Gambia,1
+709,61822,1
+710,College of Medicine,1
+711,Abu Dhabi - United Arab Emirates,1
+712,Mozambique,1
+713,Tamilnadu,1
+714,Athens Greece,1
+715,Eindhoven Netherlands,1
+716,Hyderabad - Vijayawada,1
+717,Alwar,1
+718,Essex,1
+719,Austin Tx,1
+720,England / Australia / Germany / Finland / Estonia,1
+721,Marseille,1
+722,Missouri,1
+723,Spokane WA,1
+724,UTC -6:00/-5:00 CST/CDT https://www.timeanddate.com/time/zones/cdt,1
+725,Cayman Islands,1
+726,Universe.,1
+727,Ghaziabad,1
+728,location,1
+729,Somewhere I Belong,1
+730,Location,1
+731,Somewhere in Siberia,1
+732,Australie,1
+733,the Netherlands,1
+734,Reykjavík,1
+735,French Guiana,1
+736,Ukraine/Kiyv,1
+737,Remote,1
+738,Mars (weekends),1
+739,Brussels,1
+740,US west coast,1
+741,Rennes,1
+742,inside your git repo... git.ninja,1
+743,Kashmir,1
+744,Edinburgh Scotland,1
+745,Delft,1
+746,Myanmar (Burma),1
+747,CET,1
+748,Stackoverflow,1
+749,Edinburgh UK,1
+750,Thrace,1
+751,LHS 1140b,1
+752,Arlington VA,1
+753,NSW,1
+754,The Internet,1
+755,China江苏省Suzhou Shi,1
+756,Prag,1
+757,ahmedabad,1
+758,Institute for Disease Modeling,1
+759,Europe and Asia,1
+760,French Polynesia,1
+761,Göttingen,1
+762,Kostroma,1
+763,Cubicle,1
+764,Karachi Pakistan,1
+765,seeing what's what,1
+766,Kampala Buziga,1
+767,Egypt- giza,1
+768,Stockholm,1
+769,PHL,1
+770,Tennessee,1
+771,hyderabad,1
+772,Fr,1
+773,Skopje,1
+774,London / Lyndhurst,1
+775,32608,1
+776,Rhode Island,1
+777,Hrvatska,1
+778,france,1
+779,Saint Petersburg,1
+780,QuantumLocation,1
+781,@Work,1
+782,Brisbane,1
+783,Rwanda,1
+784,new york,1
+785,MarioWii:World1,1
+786,dubai,1
+787,Duckburg,1
+788,Gliese 581G,1
+789,Milan,1
+790,Argentine,1
+791,Bacolod City,1
+792,中国,1
+793,Bahrain,1
+794,भारत (India),1
+795,Würzburg,1
+796,Royal Borough of Kingston upon Thames,1
+797,Częstochowa,1
+798,Behind you,1
+799,Dubai,1
+800,Santa Clara,1
+801,Belgien,1
+802,Suomi / Finland,1
+803,"Wuxi,China",1
+804,rajkot,1
+805,South India,1
+806,Web,1
+807,/home/,1
+808,Qatar,1
+809,Dnipro,1
+810,Stanford University,1
+811,Ouachita National Forest,1
+812,Rochester NY US,1
+813,surat,1
+814,"Colombo,Sri Lanka",1
+815,SD,1
+816,somewhere in this world,1
+817,Tampa,1
+818,Cancun Quintana Roo Mexico,1
+819,A minor planet of a very average star.,1
+820,stackoverflow,1
+821,Minn.,1
+822,Newfoundland,1
+823,South Carolina,1
+824,University of Bologna,1
+825,The Universe,1
+826,Chicago area,1
+827,Washington DC,1
+828,Ribbit!,1
+829,twitter.com/misagh84,1
+830,USA / TR,1
+831,Maldives,1
+832,Brasil/France,1
+833,near Munich (Germany),1
+834,Milkyway,1
+835,San Marino,1
+836,Pa,1
+837,Western Hemisphere,1
+838,Tashkent Province,1
+839,not too far...,1
+840,Somewhere in GMT +7,1
+841,Secret Lab,1
+842,East Coast,1
+843,North America,1
+844,Ok,1
+845,Southeast USA,1
+846,Bangaluru,1
+847,Gibraltar,1
+848,Bhopal,1
+849,GA.,1
+850,They say home is where your heart is,1
+851,Germania,1
+852,[I'm] on the planet that it's farthest from.,1
+853,Alabama USA,1
+854,"Surat,Gujurat,India",1
+855,Allemagne,1
+856,République démocratique du Congo,1
+857,ca,1
+858,Helsingborg,1
+859,Vancouver Island,1
+860,SN,1
+861,Romania / México City,1
+862,Here,1
+863,France - Paris,1
+864,Austrija,1
+865,The ministry of silly walks,1
+866,Your screen,1
+867,Unknown,1
+868,easy go,1
+869,中国上海市Shanghai Shi,1
+870,United Kingdom/South Africa/Australia,1
+871,Kuala Lumpur,1
+872,Republic of Lithuania,1
+873,Kolkata,1
+874,A five line poem,1
+875,Aachen,1
+876,Yangfan,1
+877,Great White North,1
+878,Western Europe,1
+879,china,1
